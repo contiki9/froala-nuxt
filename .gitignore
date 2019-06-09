@@ -80,5 +80,10 @@ dist
 # IDE
 .idea
 
+# dist storybook
+
+storybook-static/
+
+
 # Service worker
 sw.*
