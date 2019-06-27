@@ -82,7 +82,7 @@ dist
 
 # dist storybook
 
-storybook-static/
+/storybook-static
 
 
 # Service worker

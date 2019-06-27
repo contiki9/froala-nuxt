@@ -14,7 +14,7 @@
                        | froala nuxtは「<a href='https://www.froala.com/design-blocks/' target='_blank'>froala designblocks</a>」を「<a href='https://ja.nuxtjs.org/' target='_blank'>nuxtjs</a>」に組み込んで瞬時に使えるようにしたテンプレートです。
                  .w-mv-contents-button.text-center
                      .w-mv-contents-link
-                         a(href='https://fr-nuxt.cntlog.net',target='_blank').btn.btn-primary.btn-lg Download
+                         a(href='https://github.com/contiki9/froala-nuxt',target='_blank').btn.btn-primary.btn-lg Download
                          a(href='https://fr-nuxt-component.cntlog.net',target='_blank').btn.btn-light.btn-lg StyleGuide
 
                      .w-mv-contents-sample.mt-10.text-center
