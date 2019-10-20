@@ -25,4 +25,6 @@ $ npm run storybook
 
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org),[froala docs](https://www.froala.com/design-blocks/docs).
+## use Library
+
+- [bootstrap-vue](https://bootstrap-vue.js.org/)
