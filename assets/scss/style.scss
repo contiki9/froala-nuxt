@@ -9,10 +9,26 @@
 //@import "~bootstrap/scss/buttons";
 //@import "~bootstrap/scss/utilities/shadows";
 
-@import "~bootstrap/scss/bootstrap";
+//@import "~bootstrap/scss/bootstrap";
 
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css");
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i");
+
+
+
+// Custom Bootstrap variable overrides go first
+$grid-breakpoints: (
+  xs: 0,
+  sm: 480px,
+  md: 640px,
+  lg: 992px,
+  xl: 1300px
+);
+$enable-rounded: false;
+
+// Then include the following
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-vue/src/index.scss';
 
 // use froala
 @import "~froala-design-blocks/src/scss/mixins";

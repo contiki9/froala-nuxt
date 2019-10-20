@@ -43,6 +43,7 @@ export default {
   */
   modules: [
     '@nuxtjs/style-resources',
+    ['bootstrap-vue/nuxt']
   ],
   styleResources: {
     sass: [
