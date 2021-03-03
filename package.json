@@ -16,7 +16,7 @@
     "bootstrap-vue": "^2.1.0",
     "cross-env": "^6.0.3",
     "nuxt": "^2.10.2",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-loader": "^2.4.0",
     "pug-plain-loader": "^1.0.0",
     "vue": "^2.6.11"
